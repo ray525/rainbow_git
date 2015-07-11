@@ -9,3 +9,5 @@ hi, chili
 you are my lover
 
 this change will affect the remote one ???
+
+git@github.com:ray525/rainbow_git.git
