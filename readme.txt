@@ -25,3 +25,6 @@ add this line in github, will this change show in local??
 33333333333333333333333333333333---add in 22 lines in github
 >>>>>>> c6eaf99d0ce1dfcebd07289a5a969949a8c46bd1
 create a new branch is quickly
+
+
+here is a line edit in dev branch, test fix bug
